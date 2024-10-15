@@ -1,4 +1,4 @@
-# Generic Blog NextJS 13
+# Generic Blog NextJS 14
 
 is a blog website I wrote to promote myself professionally and then turned into a generic template. It is adapted from the Next.js blog site tutorial, expanded upon for Next.js 13 by Dave Gray [@gitdagray](https://github.com/gitdagray), and then further expanded and customized by me.
 
